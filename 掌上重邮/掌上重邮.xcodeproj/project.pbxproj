@@ -97,6 +97,7 @@
 		288BE36520BABF0F00C165DE /* help04.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 288BE36120BABF0E00C165DE /* help04.jpg */; };
 		288BE36620BABF0F00C165DE /* help01.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 288BE36220BABF0E00C165DE /* help01.jpg */; };
 		288BE36720BABF0F00C165DE /* help03.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 288BE36320BABF0E00C165DE /* help03.jpg */; };
+		28F5AEF92233679800AEAA00 /* rand01.gif in Resources */ = {isa = PBXBuildFile; fileRef = 28F5AEF82233679800AEAA00 /* rand01.gif */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -237,6 +238,7 @@
 		288BE36120BABF0E00C165DE /* help04.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = help04.jpg; sourceTree = "<group>"; };
 		288BE36220BABF0E00C165DE /* help01.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = help01.jpg; sourceTree = "<group>"; };
 		288BE36320BABF0E00C165DE /* help03.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = help03.jpg; sourceTree = "<group>"; };
+		28F5AEF82233679800AEAA00 /* rand01.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = rand01.gif; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -253,6 +255,7 @@
 		2848835A20B8226300AC734D = {
 			isa = PBXGroup;
 			children = (
+				28F5AEF82233679800AEAA00 /* rand01.gif */,
 				288BE2A120B986F700C165DE /* AFNetworking */,
 				2848836520B8226300AC734D /* 掌上重邮 */,
 				2848836420B8226300AC734D /* Products */,
@@ -507,6 +510,7 @@
 				2848839220B863B600AC734D /* 02.jpg in Resources */,
 				2848839320B863B600AC734D /* 03.jpg in Resources */,
 				288BE35B20BAB33000C165DE /* 积分商城敬请期待.jpg in Resources */,
+				28F5AEF92233679800AEAA00 /* rand01.gif in Resources */,
 				288BE33120BA923100C165DE /* button.jpg in Resources */,
 				288BE35520BAAA9B00C165DE /* head.png in Resources */,
 				2848838220B82BA500AC734D /* Blue.jpg in Resources */,
